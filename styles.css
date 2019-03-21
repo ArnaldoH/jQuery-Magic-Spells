@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+button {
+    padding: 10px;
+    margin: 15px;
+    font-size: 24px;
+}
+h2 {
+    color: white;
+}
+img {
+    width: 500px;
+}
+#ugh3 {
+    text-align: center;
+}
+#ugh2 {
+    text-align: center;
+}
+#ugh {
+    text-align: center;
+}
+#header {
+    text-align: center;
+    padding-bottom: 100px;
+}
+.woomp {
+    display:none;
+}
+.womp {
+    display:none;
+}
+.first2 {
+    display: none;
+}
+.first3 {
+    display:none;
+}
+.pilf {
+    display:none;
+}
+.keys {
+    display: none;
+}
+.wtf {
+    display: none;
+    text-align: center;
+}
+.secret {
+    display:none;
+    width: 100px;
+}
